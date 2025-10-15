@@ -1,6 +1,6 @@
 import socket
 import threading
-from poker_logic import repartir_cartas
+from Funciones import repartir_cartas
 
 HOST = '127.0.0.1'
 PORT = 65432
